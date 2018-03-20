@@ -29,7 +29,7 @@ class Strings {
         }
     }
 
-    https://www.hackerrank.com/challenges/camelcase/problem
+    // https://www.hackerrank.com/challenges/camelcase/problem
     func camelCase() {
         let str = readLine()!
         let charSet = CharacterSet.uppercaseLetters
@@ -46,7 +46,7 @@ class Strings {
         print(count)
     }
 
-    https://www.hackerrank.com/challenges/caesar-cipher-1/problem
+    // https://www.hackerrank.com/challenges/caesar-cipher-1/problem
     func caesarCipher() {
         let n = Int(readLine()!)!
         let s = readLine()!
@@ -83,7 +83,7 @@ class Strings {
         print(final)
     }
 
-    https://www.hackerrank.com/challenges/mars-exploration/problem
+    // https://www.hackerrank.com/challenges/mars-exploration/problem
     func marsExploration() {
         let str = readLine()!
 
@@ -188,4 +188,4 @@ class Strings {
 
     }
 
-} // End of Strings class
+} // End of class
