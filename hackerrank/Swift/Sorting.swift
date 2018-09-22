@@ -2,7 +2,7 @@
 
 import Foundation
 
-class Sorting {
+open class Sorting {
 
     // https://www.hackerrank.com/challenges/insertionsort1/problem
     func insertionSort1() {
